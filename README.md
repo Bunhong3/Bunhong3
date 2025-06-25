@@ -15,13 +15,13 @@ I’m a student passionate about technology and web development.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bunhong3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <div>
   <p align="center">
   <img src="https://i.pinimg.com/originals/8e/75/2c/8e752cf446947d3d01c0eaaf9e1504e2.gif" width="300" alt="Fun GIF" />
 </p>
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=Bunhong3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bunhong3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunhong3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
